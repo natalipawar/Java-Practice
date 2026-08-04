@@ -4,6 +4,8 @@ Welcome to my Java Practice repository!
 
 This repository documents my journey of learning Java from the fundamentals to advanced concepts. It contains notes, practice programs, mini exercises, and projects that help me strengthen my understanding of Java.
 
+---
+
 ## Topics Covered
 
 - Java Basics
@@ -11,27 +13,44 @@ This repository documents my journey of learning Java from the fundamentals to a
 - Operators
 - Conditional Statements
 - Loops
-- Patterns
-- Functions and Methods
+- Methods
 - Arrays
-- Seraching & Sorting
-- 2D Arrays
 - Strings
+- Object-Oriented Programming (OOP)
+- Collections Framework
+- Exception Handling
+- File Handling
+- Multithreading
+- JDBC
+- Mini Projects
+
+---
 
 ## Repository Structure
 
+```
 Java-Practice/
 │
 ├── README.md
 ├── .gitignore
 │
-├── 01-Variables-and-Datatype/
+├── 01-Basics/
 ├── 02-Operators/
 ├── 03-Conditionals/
 ├── 04-Loops/
 ├── 05-Methods/
 ├── 06-Arrays/
-└── 07-Strings/
+├── 07-Strings/
+├── 08-OOP/
+├── 09-Collections/
+├── 10-Exception-Handling/
+├── 11-File-Handling/
+├── 12-Multithreading/
+├── 13-JDBC/
+└── Mini-Projects/
+```
+
+---
 
 ## Goals
 
@@ -42,6 +61,8 @@ Java-Practice/
 - Prepare for software engineering interviews
 - Build real-world Java projects
 
+---
+
 ## Tech Stack
 
 - Java
@@ -50,7 +71,9 @@ Java-Practice/
 - Git
 - GitHub
 
-## Progress
+---
+
+## 📈 Progress
 
 - [x] Java Setup
 - [x] Basics
@@ -60,6 +83,15 @@ Java-Practice/
 - [ ] Methods
 - [ ] Arrays
 - [ ] Strings
+- [ ] OOP
+- [ ] Collections
+- [ ] Exception Handling
+- [ ] File Handling
+- [ ] Multithreading
+- [ ] JDBC
+- [ ] Mini Projects
+
+---
 
 ## About This Repository
 
