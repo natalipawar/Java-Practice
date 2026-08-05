@@ -73,7 +73,7 @@ Java-Practice/
 
 ---
 
-## 📈 Progress
+## Progress
 
 - [x] Java Setup
 - [x] Basics
@@ -100,3 +100,4 @@ This repository is a collection of my Java learning journey. As I continue learn
 If you're learning Java too, feel free to explore the code and follow along.
 
 Happy Coding!
+h
