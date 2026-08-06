@@ -15,7 +15,7 @@ public class Bill {
 
         float totalCost = item1 + item2 + item3; // Original amout
         float gstRate = 0.18f; // 18% GST
-        float totalBill = totalCost + gstRate;
+        float totalBill = totalCost + (gstRate * totalCost);
 
         System.out.println("Total bill amount: " + totalBill);
         obj.close();
