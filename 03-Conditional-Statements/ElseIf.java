@@ -1,0 +1,16 @@
+public class ElseIf {
+    public static void main(String[] args) {
+        int age = 22;
+
+        if (age >= 18) {
+            System.out.println("Adult");
+        }
+        else if (13 <= age || age < 18) {
+            System.out.println("Teenager");
+        }
+        else {
+            System.out.println("Child");
+        }
+    }
+
+}
