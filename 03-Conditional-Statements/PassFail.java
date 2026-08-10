@@ -8,6 +8,7 @@ public class PassFail {
 
         String result = (marks >= 33) ? "PASS" : "FAIL";
         System.out.println(result);
+        obj.close();
     }
 
 }
