@@ -6,7 +6,7 @@ public class Parameters {
         System.out.println("This is Natali");
     }
 
-    public static int calculateSum(int num1, int num2) {
+    public static int calculateSum(int num1, int num2) { // parameters or formal parameters
         int sum = num1 + num2;
         return sum;
     }
@@ -16,7 +16,8 @@ public class Parameters {
         int a = sc.nextInt();
         int b = sc.nextInt();
 
-        int sum = calculateSum(a, b); //this sum variable is different from the above one as both are in different classes
+        int sum = calculateSum(a, b); // arguments or actual parameters
+        //this sum variable is different from the above one as both are in different classes
         System.out.println("Sum is: " + sum);
 
         printHello();
