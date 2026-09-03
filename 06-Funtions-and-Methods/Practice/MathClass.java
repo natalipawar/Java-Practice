@@ -22,7 +22,9 @@ public class MathClass {
 
         int n = -12;
         num = Math.abs(n);
-        System.out.println("absolute value is " +num);
+        System.out.println("absolute value is " + num);
+
+        sc.close();
     }
 
 }
