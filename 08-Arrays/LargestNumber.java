@@ -1,12 +1,10 @@
-import java.util.*;
-
 public class LargestNumber {
 
     public static int largestNumber(int numbers[]) {
         int largest = Integer.MIN_VALUE;
 
         for (int i = 0; i < numbers.length; i++) {
-            if (i > largest) {
+            if (largest < numbers[i]) {
                 largest = numbers[i];
             }
         }
