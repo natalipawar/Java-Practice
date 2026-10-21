@@ -19,8 +19,12 @@ public class PrintSubarray {
         System.out.print("total subarrays: " + totalSubarray);
 
     }
+
     public static void main(String[] args) {
         int numbers[] = { 2, 4, 6, 8, 10 };
         printSubarray(numbers);
     }
 }
+
+
+
