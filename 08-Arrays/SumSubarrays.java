@@ -23,7 +23,7 @@ public class SumSubarrays {
 
     }
     public static void main(String[] args) {
-        int numbers[] = { 2, 4, 6, 8, 10 };
+        int numbers[] = { 1, -2, 6, -1, 3 };
         sumSubarray(numbers);
     }
 }
